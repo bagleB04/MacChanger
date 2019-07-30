@@ -1,0 +1,9 @@
+pip==19.2.1
+
+psutil
+
+eclipse
+
+smbclient
+
+macchanger==1.7.0
